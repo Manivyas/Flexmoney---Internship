@@ -1,2 +1,2 @@
 # Flexmoney---Internship
-Inernship Assignment
+Internship Assignment
